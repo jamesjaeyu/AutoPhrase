@@ -6,3 +6,6 @@ tmp/
 
 *.orig
 *.pyc
+data/EN/DBLP.txt
+bin/segphrase_segment
+bin/segphrase_train
