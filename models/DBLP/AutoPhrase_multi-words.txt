@@ -1,84 +1,83 @@
-0.9586516595	object oriented
-0.9482984848	data mining
-0.9434794372	programming language
-0.9401040404	logic programming
-0.9260961039	database systems
-0.9195627706	natural language
-0.9150151515	database design
-0.8300627706	query processing
-0.8115905483	knowledge discovery
-0.8108318182	range images
-0.8031127706	information systems
-0.7733461039	data model
-0.6434373737	object oriented database
-0.6288738817	range data
-0.5649151515	range image
-0.5310651515	experimental results
-0.4834961039	oriented database
-0.4669262626	real time
-0.4614707071	paper presents
-0.4108461039	database system
-0.3905267677	an introduction
-0.3541823232	three dimensional
-0.3484434343	an overview
-0.3196156566	an object oriented
-0.2987688312	the art
-0.2652823232	3 d
-0.2318378788	this paper
-0.2286934343	this paper presents
-0.2277743867	in order to
-0.2252101010	based on
-0.2185294372	number of
-0.2153378788	this chapter
-0.2040878788	such as
-0.1947545455	this book
-0.1922151515	shape from
-0.1898378788	as well as
-0.1860323232	3d model
-0.1847466089	3d reconstruction
-0.1801572150	reconstruction from
-0.1739966089	3d models
-0.1496762626	introduction to
-0.1482494949	a set of
-0.1465828283	the problem of
-0.1436601010	method for
-0.1300989899	the same
-0.1295828283	the use of
-0.1263156566	from multiple
-0.1194323232	a single
-0.1132101010	due to
-0.1124323232	the book
-0.1074262626	framework for
-0.1070595960	approach to
-0.1043304473	the internet
-0.1038161616	the proposed
-0.1031050505	techniques for
-0.0944132756	development of
-0.0897799423	a novel
-0.0865555556	the object
-0.0832601010	an object
-0.0818707071	set of
-0.0770323232	reconstruction of
-0.0754466089	a new
-0.0745555556	the design
-0.0723050505	analysis of
-0.0717555556	the surface
-0.0671434343	methods for
-0.0656743867	used to
-0.0649693362	by using
-0.0602161616	modeling of
-0.0594828283	the first
-0.0574161616	model for
-0.0558666667	the method
-0.0524161616	model of
-0.0514161616	design of
-0.0495333333	the problem
-0.0468666667	the 3d
-0.0455333333	a set
-0.0418666667	a 3d
-0.0351661616	algorithms for
-0.0348888889	a method
-0.0341661616	approach for
-0.0332000000	system for
-0.0256545455	as well
-0.0179142857	use of
+0.9567815296	object oriented
+0.9540434343	data mining
+0.9503481962	logic programming
+0.9334116883	natural language
+0.9270029582	programming language
+0.9195962121	database systems
+0.9113212121	database design
+0.8555069264	query processing
+0.8253235931	knowledge discovery
+0.8206862915	range images
+0.8132378788	information systems
+0.7637696248	data model
+0.6344620851	object oriented database
+0.6100862915	range data
+0.5508771645	experimental results
+0.5479779582	range image
+0.4801106061	real time
+0.4776612915	oriented database
+0.4553771645	paper presents
+0.4209042569	database system
+0.3804799423	an overview
+0.3674489899	three dimensional
+0.3260712121	an object oriented
+0.3122489899	the art
+0.2664527778	3 d
+0.2513462121	this paper presents
+0.2486578283	number of
+0.2434073232	this paper
+0.2266800505	in order to
+0.2241962121	this chapter
+0.2229009740	an introduction
+0.2209828283	based on
+0.2103578283	introduction to
+0.2102217172	shape from
+0.2074916667	as well as
+0.1981962121	this book
+0.1919916667	such as
+0.1850828283	reconstruction from
+0.1803823232	3d model
+0.1694934343	3d reconstruction
+0.1556045455	3d models
+0.1419272727	method for
+0.1419161616	a set of
+0.1408027778	due to
+0.1309027778	the same
+0.1299161616	the problem of
+0.1248994949	approach to
+0.1191888889	the use of
+0.1158939394	techniques for
+0.1134934343	from multiple
+0.1133323232	a single
+0.1120994949	framework for
+0.1113106061	development of
+0.1111854978	the design
+0.0968939394	reconstruction of
+0.0953323232	the book
+0.0945823232	the internet
+0.0922272727	analysis of
+0.0900277778	a novel
+0.0898106061	set of
+0.0857939394	methods for
+0.0806934343	the proposed
+0.0682777778	a new
+0.0672545455	an object
+0.0642272727	model for
+0.0610888889	used to
+0.0597000000	by using
+0.0547272727	modeling of
+0.0537939394	algorithms for
+0.0528045455	the object
+0.0521272727	approach for
+0.0498045455	the surface
+0.0497272727	design of
+0.0487272727	model of
+0.0445000000	the first
+0.0383045455	a set
+0.0383045455	the problem
+0.0378045455	the method
+0.0377888889	as well
+0.0314000000	system for
+0.0305772727	the 3d
+0.0275772727	a 3d
+0.0120000000	use of

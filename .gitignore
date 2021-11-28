@@ -9,3 +9,5 @@ tmp/
 data/EN/DBLP.txt
 bin/segphrase_segment
 bin/segphrase_train
+default_data/EN/DBLP.txt
+models/DBLP_full/segmentation.txt
